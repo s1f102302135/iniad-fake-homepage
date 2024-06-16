@@ -1,5 +1,5 @@
 body {
-  background-color: #794c13;
+  background-color: #ffffff;
   color: #000000;
 }
 
@@ -22,7 +22,7 @@ h3 {
 
 #schedule {
   padding: 10px 20px 10px 20px;
-  background-color: #9933ff;
+  background-color: #ffffe1;
 }
 
 .iniad {
@@ -31,6 +31,6 @@ h3 {
 
 .time {
   font-weight: bold;
-  color: #7969ef;
+  color: #ff8888;
   font-size: 30px;
 }
